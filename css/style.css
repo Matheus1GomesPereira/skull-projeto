@@ -295,10 +295,11 @@ a:focus {
 }
 
 .us_section {
-  background-image: url(../images/us-bg.jpg);
+  background-image: url(../images/skull1.png);
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;
+  background-;
 }
 
 .us_section .us_container {
@@ -342,7 +343,7 @@ a:focus {
 }
 
 .heathy_section {
-  background-image: url(../images/healthy-bg.jpg);
+  background-image: url(../images/skull1.png);
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;
@@ -387,7 +388,7 @@ a:focus {
 }
 
 .trainer_section {
-  background-image: url(../images/trainer-bg.jpg);
+  background-image: url(../images/skull1.png);
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;
@@ -438,7 +439,7 @@ a:focus {
 
 .contact_section {
   position: relative;
-  background-color: #27223f;
+  background-color: #4A4A4A;
   color: #ffffff;
 }
 
@@ -510,7 +511,7 @@ a:focus {
 }
 
 .info_section {
-  background-color: #252233;
+  background-color: #4A4A4A;
 }
 
 .info_items {
