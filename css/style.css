@@ -455,7 +455,7 @@ a:focus {
 }
 
 .contact_section .img-box img {
-  width: 70%;
+  max-width: 100%;
 }
 
 .contact_section .form_container {
